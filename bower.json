@@ -1,6 +1,6 @@
 {
-  "name": "stub",
-  "description": "",
+  "name": "x-ajax",
+  "description": "Allows performing ajax requests",
   "version": "0.1.0",
   "keywords": [
     "web-components",    
